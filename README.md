@@ -18,6 +18,10 @@ Feasto is a beautifully designed Flutter application that helps users explore a 
 
 ---
 
+
+added both implicit and explicit animations to make the app feel smoother. Also added nice transitions when moving between screens to improve the overall user experience.
+
+
 ## 🧑‍💻 Tech Stack
 
 | Category        | Tech Used                     |
